@@ -1,0 +1,286 @@
+NOR
+Havard LORENTZEN
+34.41 +0.00 OR
+Splits   Lap Time Time
+100m  9.74  9.74
+Finish   24.67 34.41
+2  14 O  111
+
+KOR
+CHA Min Kyu
+34.42 +0.01
+Splits   Lap Time Time
+100m  9.63  9.63
+Finish   24.79 34.42
+3  12 I  122
+
+CHN
+GAO Tingyu
+34.65 +0.24
+Splits   Lap Time Time
+100m  9.47  9.47
+Finish   25.18 34.65
+4  18 O  174
+
+FIN
+Mika POUTALA
+34.68 +0.27
+Splits   Lap Time Time
+100m  9.61  9.61
+Finish   25.07 34.68
+5  17 I  201
+
+JPN
+Daichi YAMANAKA
+34.78 +0.37
+Splits   Lap Time Time
+100m  9.55  9.55
+Finish   25.23 34.78
+6  12 O  140
+
+JPN
+Joji KATO
+34.831   +0.42
+Splits   Lap Time Time
+100m  9.53  9.53
+Finish   25.30 34.83
+7  16 I  163
+
+NED
+Ronald MULDER
+34.839   +0.42
+Splits   Lap Time Time
+100m  9.59  9.59
+Finish   25.24 34.83
+8  15 O  135
+
+GER
+Nico IHLE
+34.89 +0.48
+Splits   Lap Time Time
+100m  9.76  9.76
+Finish   25.13 34.89
+9  17 O  190
+
+NED
+Kai VERBIJ
+34.90 +0.49
+Splits   Lap Time Time
+100m  9.68  9.68
+Finish   25.22 34.90
+10 10 O  179
+
+NED
+Jan SMEEKENS
+34.930   +0.52
+Splits   Lap Time Time
+100m  9.74  9.74
+Finish   25.19 34.93
+11 18 I  107
+
+CAN
+Alex BOISVERT-LACROIX
+34.934   +0.52
+Splits   Lap Time Time
+100m  9.56  9.56
+Finish   25.37 34.93
+12 13 I  142
+
+KOR
+KIM Jun-Ho
+35.01 +0.60
+Splits   Lap Time Time
+100m  9.68  9.68
+Finish   25.33 35.01
+13 15 I  194
+
+POL
+Artur WAS
+35.02 +0.61
+Splits   Lap Time Time
+100m  9.67  9.67
+Finish   25.35 35.02
+14 1  I  131
+
+JPN
+Tsubasa HASEGAWA
+35.08 +0.67
+Splits   Lap Time Time
+100m  9.67  9.67
+Finish   25.41 35.08
+15 10 I  196
+
+USA
+Mitchell WHITMORE
+35.13 +0.72
+Splits   Lap Time Time
+100m  9.90  9.90
+Finish   25.23 35.13
+16 11 O  161
+
+KOR
+MO Tae-Bum
+35.154   +0.74
+Splits   Lap Time Time
+100m  9.61  9.61
+Finish   25.54 35.15
+17 14 I  139
+
+CAN
+Gilmore JUNIO
+35.158   +0.74
+Splits   Lap Time Time
+100m  9.62  9.62
+Finish   25.53 35.15
+18 13 O  120
+
+CAN
+Laurent DUBREUIL
+35.16 +0.75
+Splits   Lap Time Time
+100m  9.75  9.75
+Finish   25.41 35.16
+19 9  O  146
+
+FIN
+Pekka KOSKELA
+35.192   +0.78
+Splits   Lap Time Time
+100m  9.80  9.80
+Finish   25.39 35.19
+20 6  O  110
+
+COL
+Pedro CAUSIL
+35.196   +0.78
+Splits   Lap Time Time
+100m  9.96  9.96
+Finish   25.23 35.19
+21 1  O  128
+
+AUS
+Daniel GREIG
+35.22 +0.81
+Splits   Lap Time Time
+100m  9.70  9.70
+Finish   25.52 35.22
+22 5  I  127
+
+BLR
+Ignat GOLOVATSIUK
+35.23 +0.82
+Splits   Lap Time Time
+100m  9.92  9.92
+Finish   25.31 35.23
+23 7  O  123
+
+USA
+Jonathan GARCIA
+35.31 +0.90
+Splits   Lap Time Time
+100m  9.91  9.91
+Finish   25.40 35.31
+24 6  I  172
+
+KAZ
+Stanislav PALKIN
+35.33 +0.92
+Splits   Lap Time Time
+100m  9.93  9.93
+Finish   25.40 35.33
+25 2  O  149
+
+KAZ
+Artyom KRIKUNOV
+35.34 +0.93
+Splits   Lap Time Time
+100m  9.78  9.78
+Finish   25.56 35.34
+26 2  I  129
+
+USA
+Kimani GRIFFIN
+35.38 +0.97
+Splits   Lap Time Time
+100m  10.06 10.06
+Finish   25.32 35.38
+27 5  O  202
+
+CHN
+YANG Tao
+35.41 +1.00
+Splits   Lap Time Time
+100m  9.86  9.86
+Finish   25.55 35.41
+28 8  I  176
+
+NOR
+Henrik Fagerli RUKKE
+35.500   +1.09
+Splits   Lap Time Time
+100m  9.93  9.93
+Finish   25.57 35.50
+29 3  O  121
+
+GER
+Joel DUFTER
+35.506   +1.09
+Splits   Lap Time Time
+100m  10.01 10.01
+Finish   25.49 35.50
+30 4  I  166
+
+ITA
+Mirko Giacomo NENZI
+35.51 +1.10
+Splits   Lap Time Time
+100m  9.85  9.85
+Finish   25.66 35.51
+31 4  O  200
+
+CHN
+XIE Jiaxuan
+35.545   +1.13
+Splits   Lap Time Time
+100m  9.88  9.88
+Finish   25.66 35.54
+32 3  I  192
+
+BEL
+Mathias VOSTE
+35.546   +1.13
+Splits   Lap Time Time
+100m  10.01 10.01
+Finish   25.53 35.54
+33 11 I  159
+
+POL
+Piotr MICHALSKI
+35.64 +1.23
+Splits   Lap Time Time
+100m  9.92  9.92
+Finish   25.72 35.64
+34 7  I  181
+
+TPE
+SUNG Ching-Yang
+35.86 +1.45
+Splits   Lap Time Time
+100m  9.78  9.78
+Finish   26.08 35.86
+35 9  I  148
+
+KAZ
+Roman KRECH
+35.92 +1.51
+Splits   Lap Time Time
+100m  9.93  9.93
+Finish   25.99 35.92
+36 8  O  169
+
+POL
+Artur NOGAL
+58.71 +24.30
+Splits   Lap Time Time
+100m  19.26 19.26
+Finish   39.45 58.71

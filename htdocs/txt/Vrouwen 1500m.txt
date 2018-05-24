@@ -1,0 +1,268 @@
+NED
+Ireen WUST
+1:54.35  +0.00
+Splits   Lap Time Time
+300m  25.53 25.53
+700m  28.43 53.96
+1100m 29.57 1:23.53
+Finish   30.82 1:54.35
+2  14 O  64
+
+JPN
+Miho TAKAGI
+1:54.55  +0.20
+Splits   Lap Time Time
+300m  25.50 25.50
+700m  28.53 54.03
+1100m 29.65 1:23.68
+Finish   30.87 1:54.55
+3  12 I  41
+
+NED
+Marrit LEENSTRA
+1:55.26  +0.91
+Splits   Lap Time Time
+300m  25.38 25.38
+700m  28.28 53.66
+1100m 29.60 1:23.26
+Finish   32.00 1:55.26
+4  13 I  71
+
+NED
+Lotte VAN BEEK
+1:55.27  +0.92
+Splits   Lap Time Time
+300m  25.86 25.86
+700m  28.66 54.52
+1100m 29.50 1:24.02
+Finish   31.25 1:55.27
+5  7  O  10
+
+USA
+Brittany BOWE
+1:55.54  +1.19
+Splits   Lap Time Time
+300m  25.12 25.12
+700m  28.42 53.54
+1100m 30.00 1:23.54
+Finish   32.00 1:55.54
+6  2  O  39
+
+JPN
+Nao KODAIRA
+1:56.11  +1.76
+Splits   Lap Time Time
+300m  24.94 24.94
+700m  28.16 53.10
+1100m 30.33 1:23.43
+Finish   32.68 1:56.11
+7  10 I  50
+
+NOR
+Ida NJATUN
+1:56.46  +2.11
+Splits   Lap Time Time
+300m  26.18 26.18
+700m  28.18 54.36
+1100m 29.81 1:24.17
+Finish   32.29 1:56.46
+8  14 I  5
+
+USA
+Heather BERGSMA
+1:56.74  +2.39
+Splits   Lap Time Time
+300m  25.01 25.01
+700m  28.52 53.53
+1100m 30.17 1:23.70
+Finish   33.04 1:56.74
+9  7  I  12
+
+POL
+Natalia CZERWONKA
+1:57.85  +3.50
+Splits   Lap Time Time
+300m  26.35 26.35
+700m  28.67 55.02
+1100m 30.20 1:25.22
+Finish   32.63 1:57.85
+10 4  O  44
+
+ITA
+Francesca LOLLOBRIGIDA
+1:57.94  +3.59
+Splits   Lap Time Time
+300m  26.31 26.31
+700m  29.12 55.43
+1100m 30.85 1:26.28
+Finish   31.66 1:57.94
+11 8  I  78
+
+CZE
+Nikola ZDRAHALOVA
+1:58.03  +3.68
+Splits   Lap Time Time
+300m  25.63 25.63
+700m  29.07 54.70
+1100m 30.98 1:25.68
+Finish   32.35 1:58.03
+12 6  I  28
+
+GER
+Gabriele HIRSCHBICHLER
+1:58.24  +3.89
+Splits   Lap Time Time
+300m  25.83 25.83
+700m  28.61 54.44
+1100m 30.58 1:25.02
+Finish   33.22 1:58.24
+13 12 O  4
+
+POL
+Katarzyna BACHLEDA-CURUS
+1:58.51  +4.16
+Splits   Lap Time Time
+300m  26.17 26.17
+700m  29.01 55.18
+1100m 30.51 1:25.69
+Finish   32.82 1:58.51
+14 5  O  51
+
+KOR
+NOH Seon-Yeong
+1:58.75  +4.40
+Splits   Lap Time Time
+300m  26.44 26.44
+700m  28.95 55.39
+1100m 30.87 1:26.26
+Finish   32.49 1:58.75
+15 11 I  69
+
+CAN
+Brianne TUTT
+1:58.77  +4.42
+Splits   Lap Time Time
+300m  26.07 26.07
+700m  29.01 55.08
+1100m 30.85 1:25.93
+Finish   32.84 1:58.77
+16 13 O  35
+
+JPN
+Ayaka KIKUCHI
+1:58.92  +4.57
+Splits   Lap Time Time
+300m  25.70 25.70
+700m  28.81 54.51
+1100m 31.02 1:25.53
+Finish   33.39 1:58.92
+17 8  O  81
+
+POL
+Luiza ZLOTKOWSKA
+1:58.99  +4.64
+Splits   Lap Time Time
+300m  26.55 26.55
+700m  29.54 56.09
+1100m 30.72 1:26.81
+Finish   32.18 1:58.99
+18 5  I  3
+
+KAZ
+Yekaterina AYDOVA
+1:59.05  +4.70
+Splits   Lap Time Time
+300m  26.10 26.10
+700m  29.59 55.69
+1100m 30.64 1:26.33
+Finish   32.72 1:59.05
+19 9  O  11
+
+CAN
+Kali CHRIST
+1:59.42  +5.07
+Splits   Lap Time Time
+300m  26.63 26.63
+700m  29.20 55.83
+1100m 30.79 1:26.62
+Finish   32.80 1:59.42
+20 10 O  26
+
+CHN
+HAO Jiachen
+1:59.58  +5.23
+Splits   Lap Time Time
+300m  26.20 26.20
+700m  29.24 55.44
+1100m 30.84 1:26.28
+Finish   33.30 1:59.58
+21 1  I  48
+
+CAN
+Josie MORRISON
+1:59.77  +5.42
+Splits   Lap Time Time
+300m  27.22 27.22
+700m  29.70 56.92
+1100m 30.79 1:27.71
+Finish   32.06 1:59.77
+22 4  I  45
+
+USA
+Mia MANGANELLO
+1:59.93  +5.58
+Splits   Lap Time Time
+300m  26.52 26.52
+700m  28.98 55.50
+1100m 30.92 1:26.42
+Finish   33.51 1:59.93
+23 3  I  68
+
+CHN
+TIAN Ruining
+2:00.29  +5.94
+Splits   Lap Time Time
+300m  25.59 25.59
+700m  29.10 54.69
+1100m 31.64 1:26.33
+Finish   33.96 2:00.29
+24 9  I  18
+
+GER
+Roxanne DUFTER
+2:00.33  +5.98
+Splits   Lap Time Time
+300m  26.92 26.92
+700m  29.04 55.96
+1100m 30.73 1:26.69
+Finish   33.64 2:00.33
+25 2  I  6
+
+ITA
+Francesca BETTRONE
+2:00.43  +6.08
+Splits   Lap Time Time
+300m  26.63 26.63
+700m  29.90 56.53
+1100m 31.29 1:27.82
+Finish   32.61 2:00.43
+26 6  O  29
+
+TPE
+HUANG Yu-Ting
+2:18.84  +24.49
+Splits   Lap Time Time
+300m  25.75 25.75
+700m  28.28 54.03
+1100m 31.33 1:25.36
+Finish   53.48 2:18.84
+3  O  82
+
+BLR
+Maryna ZUYEVA
+DQ
+Splits   Lap Time Time
+300m  26.68 26.68
+700m  29.19 55.87
+1100m 31.22 1:27.09
+Finish   31.86 1:58.95

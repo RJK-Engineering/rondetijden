@@ -18,6 +18,10 @@ my @files = (
 
 foreach my $file (@files) {
     my $in;
+    if (-e "$file.csv") {
+        print "Exists: $file.csv\n";
+        next;
+    }
     if (!open ($in, '<', "$sourceDir/$file.txt")) {
         print "$!: $file.txt\n";
         next;
@@ -37,6 +41,12 @@ foreach my $file (@files) {
             #~ push @{$splitTimes[$i]}, $time += $+{time};
             push @splits, $distance if @contestants == 1;
             $i++;
+        } elsif (/^[A-Z]{3}$/) {    # country
+            next;
+        } elsif (/\d/) {            # rank/pair/lane/no, time/gap/record
+            next;
+        } elsif (/^Splits/) {       # header
+            next;
         } else {
             push @contestants, $_;
             $i = 0;

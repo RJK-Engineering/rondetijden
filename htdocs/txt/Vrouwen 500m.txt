@@ -1,0 +1,246 @@
+JPN
+Nao KODAIRA
+36.94 +0.00 OR
+Splits   Lap Time Time
+100m  10.26 10.26
+Finish   26.68 36.94
+2  15 O  40
+
+KOR
+LEE Sang-Hwa
+37.33 +0.39
+Splits   Lap Time Time
+100m  10.20 10.20
+Finish   27.13 37.33
+3  14 O  19
+
+CZE
+Karolina ERBANOVA
+37.34 +0.40
+Splits   Lap Time Time
+100m  10.30 10.30
+Finish   27.04 37.34
+4  16 I  27
+
+AUT
+Vanessa HERZOG
+37.51 +0.57
+Splits   Lap Time Time
+100m  10.49 10.49
+Finish   27.02 37.51
+5  11 O  10
+
+USA
+Brittany BOWE
+37.530   +0.59
+Splits   Lap Time Time
+100m  10.45 10.45
+Finish   27.08 37.53
+6  4  I  67
+
+NED
+Jorien TER MORS
+37.539   +0.59
+Splits   Lap Time Time
+100m  10.50 10.50
+Finish   27.03 37.53
+7  16 O  21
+
+OAR
+Angelina GOLIKOVA
+37.62 +0.68
+Splits   Lap Time Time
+100m  10.41 10.41
+Finish   27.21 37.62
+8  15 I  20
+
+JPN
+Arisa GO
+37.67 +0.73
+Splits   Lap Time Time
+100m  10.37 10.37
+Finish   27.30 37.67
+9  13 I  77
+
+CHN
+YU Jing
+37.81 +0.87
+Splits   Lap Time Time
+100m  10.51 10.51
+Finish   27.30 37.81
+10 13 O  30
+
+CAN
+Marsha HUDEY
+37.88 +0.94
+Splits   Lap Time Time
+100m  10.35 10.35
+Finish   27.53 37.88
+11 9  O  5
+
+USA
+Heather BERGSMA
+38.13 +1.19
+Splits   Lap Time Time
+100m  10.73 10.73
+Finish   27.40 38.13
+12 10 O  37
+
+KOR
+KIM Hyun-Yung
+38.251   +1.31
+Splits   Lap Time Time
+100m  10.69 10.69
+Finish   27.56 38.25
+13 11 I  34
+
+JPN
+Erina KAMIYA
+38.255   +1.31
+Splits   Lap Time Time
+100m  10.60 10.60
+Finish   27.65 38.25
+14 12 O  46
+
+CAN
+Heather MCLEAN
+38.29 +1.35
+Splits   Lap Time Time
+100m  10.53 10.53
+Finish   27.76 38.29
+15 8  I  79
+
+CHN
+ZHANG Hong
+38.39 +1.45
+Splits   Lap Time Time
+100m  11.00 11.00
+Finish   27.39 38.39
+16 9  I  38
+
+KOR
+KIM Min Sun
+38.534   +1.59
+Splits   Lap Time Time
+100m  10.65 10.65
+Finish   27.88 38.53
+16 10 I  15
+
+GER
+Judith DANNHAUER
+38.534   +1.59
+Splits   Lap Time Time
+100m  10.45 10.45
+Finish   28.08 38.53
+18 12 I  8
+
+NOR
+Hege BOKKO
+38.538   +1.59
+Splits   Lap Time Time
+100m  10.94 10.94
+Finish   27.59 38.53
+19 1  I  16
+
+NED
+Anice DAS
+38.75 +1.81
+Splits   Lap Time Time
+100m  10.76 10.76
+Finish   27.99 38.75
+20 5  O  68
+
+CHN
+TIAN Ruining
+38.86 +1.92
+Splits   Lap Time Time
+100m  10.72 10.72
+Finish   28.14 38.86
+21 8  O  3
+
+KAZ
+Yekaterina AYDOVA
+38.96 +2.02
+Splits   Lap Time Time
+100m  10.64 10.64
+Finish   28.32 38.96
+22 6  O  29
+
+TPE
+HUANG Yu-Ting
+38.98 +2.04
+Splits   Lap Time Time
+100m  11.12 11.12
+Finish   27.86 38.98
+23 3  I  71
+
+NED
+Lotte VAN BEEK
+39.18 +2.24
+Splits   Lap Time Time
+100m  11.18 11.18
+Finish   28.00 39.18
+24 2  O  33
+
+USA
+Erin JACKSON
+39.20 +2.26
+Splits   Lap Time Time
+100m  10.82 10.82
+Finish   28.38 39.20
+25 4  O  80
+
+POL
+Kaja ZIOMEK
+39.26 +2.32
+Splits   Lap Time Time
+100m  10.72 10.72
+Finish   28.54 39.26
+26 7  I  14
+
+ITA
+Yvonne DALDOSSI
+39.28 +2.34
+Splits   Lap Time Time
+100m  10.75 10.75
+Finish   28.53 39.28
+27 2  I  50
+
+NOR
+Ida NJATUN
+39.33 +2.39
+Splits   Lap Time Time
+100m  11.24 11.24
+Finish   28.09 39.33
+28 7  O  58
+
+FIN
+Elina RISKU
+39.36 +2.42
+Splits   Lap Time Time
+100m  10.83 10.83
+Finish   28.53 39.36
+29 6  I  6
+
+ITA
+Francesca BETTRONE
+39.52 +2.58
+Splits   Lap Time Time
+100m  10.99 10.99
+Finish   28.53 39.52
+30 5  I  60
+
+BLR
+Kseniya SADOUSKAYA
+39.64 +2.70
+Splits   Lap Time Time
+100m  10.81 10.81
+Finish   28.83 39.64
+31 3  O  31
+
+ROU
+Alexandra IANCULESCU
+40.70 +3.76
+Splits   Lap Time Time
+100m  11.24 11.24
+Finish   29.46 40.70

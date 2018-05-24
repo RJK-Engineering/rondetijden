@@ -1,0 +1,277 @@
+NED
+Jorien TER MORS
+1:13.56  +0.00 OR
+Splits   Lap Time Time
+200m  18.07 18.07
+600m  26.99 45.06
+Finish   28.50 1:13.56
+2  15 O  39
+
+JPN
+Nao KODAIRA
+1:13.82  +0.26
+Splits   Lap Time Time
+200m  17.67 17.67
+600m  26.88 44.55
+Finish   29.27 1:13.82
+3  14 I  64
+
+JPN
+Miho TAKAGI
+1:13.98  +0.42
+Splits   Lap Time Time
+200m  17.66 17.66
+600m  27.58 45.24
+Finish   28.74 1:13.98
+4  12 O  10
+
+USA
+Brittany BOWE
+1:14.36  +0.80
+Splits   Lap Time Time
+200m  17.79 17.79
+600m  27.09 44.88
+Finish   29.48 1:14.36
+5  15 I  27
+
+AUT
+Vanessa HERZOG
+1:14.47  +0.91
+Splits   Lap Time Time
+200m  17.67 17.67
+600m  27.12 44.79
+Finish   29.68 1:14.47
+6  16 I  41
+
+NED
+Marrit LEENSTRA
+1:14.85  +1.29
+Splits   Lap Time Time
+200m  18.05 18.05
+600m  27.64 45.69
+Finish   29.16 1:14.85
+7  14 O  19
+
+CZE
+Karolina ERBANOVA
+1:14.95  +1.39
+Splits   Lap Time Time
+200m  17.62 17.62
+600m  27.44 45.06
+Finish   29.89 1:14.95
+8  16 O  5
+
+USA
+Heather BERGSMA
+1:15.15  +1.59
+Splits   Lap Time Time
+200m  17.89 17.89
+600m  27.17 45.06
+Finish   30.09 1:15.15
+9  4  I  76
+
+NED
+Ireen WUST
+1:15.32  +1.76
+Splits   Lap Time Time
+200m  18.31 18.31
+600m  27.88 46.19
+Finish   29.13 1:15.32
+10 7  O  50
+
+NOR
+Ida NJATUN
+1:15.43  +1.87
+Splits   Lap Time Time
+200m  18.79 18.79
+600m  27.66 46.45
+Finish   28.98 1:15.43
+11 11 O  79
+
+CHN
+ZHANG Hong
+1:15.67  +2.11
+Splits   Lap Time Time
+200m  18.24 18.24
+600m  27.52 45.76
+Finish   29.91 1:15.67
+12 11 I  12
+
+POL
+Natalia CZERWONKA
+1:15.77  +2.21
+Splits   Lap Time Time
+200m  18.47 18.47
+600m  27.75 46.22
+Finish   29.55 1:15.77
+13 10 I  20
+
+JPN
+Arisa GO
+1:15.84  +2.28
+Splits   Lap Time Time
+200m  17.84 17.84
+600m  27.88 45.72
+Finish   30.12 1:15.84
+14 13 I  8
+
+NOR
+Hege BOKKO
+1:15.98  +2.42
+Splits   Lap Time Time
+200m  18.00 18.00
+600m  27.72 45.72
+Finish   30.26 1:15.98
+15 9  I  28
+
+GER
+Gabriele HIRSCHBICHLER
+1:16.03  +2.47
+Splits   Lap Time Time
+200m  18.37 18.37
+600m  27.77 46.14
+Finish   29.89 1:16.03
+16 9  O  54
+
+KOR
+PARK Seung-Hi
+1:16.11  +2.55
+Splits   Lap Time Time
+200m  18.15 18.15
+600m  27.66 45.81
+Finish   30.30 1:16.11
+17 5  I  77
+
+CHN
+YU Jing
+1:16.361 +2.80
+Splits   Lap Time Time
+200m  18.06 18.06
+600m  27.76 45.82
+Finish   30.54 1:16.36
+18 7  I  37
+
+KOR
+KIM Hyun-Yung
+1:16.366 +2.80
+Splits   Lap Time Time
+200m  18.06 18.06
+600m  27.78 45.84
+Finish   30.52 1:16.36
+19 2  O  78
+
+CZE
+Nikola ZDRAHALOVA
+1:16.43  +2.87
+Splits   Lap Time Time
+200m  18.36 18.36
+600m  28.23 46.59
+Finish   29.84 1:16.43
+20 13 O  29
+
+TPE
+HUANG Yu-Ting
+1:16.44  +2.88
+Splits   Lap Time Time
+200m  18.67 18.67
+600m  27.50 46.17
+Finish   30.27 1:16.44
+21 6  I  68
+
+CHN
+TIAN Ruining
+1:16.69  +3.13
+Splits   Lap Time Time
+200m  18.38 18.38
+600m  28.19 46.57
+Finish   30.12 1:16.69
+22 8  O  21
+
+OAR
+Angelina GOLIKOVA
+1:16.85  +3.29
+Splits   Lap Time Time
+200m  17.84 17.84
+600m  27.70 45.54
+Finish   31.31 1:16.85
+23 8  I  32
+
+CAN
+Kaylin IRVINE
+1:16.90  +3.34
+Splits   Lap Time Time
+200m  17.90 17.90
+600m  28.14 46.04
+Finish   30.86 1:16.90
+24 6  O  3
+
+KAZ
+Yekaterina AYDOVA
+1:17.09  +3.53
+Splits   Lap Time Time
+200m  17.97 17.97
+600m  28.40 46.37
+Finish   30.72 1:17.09
+25 10 O  46
+
+CAN
+Heather MCLEAN
+1:17.25  +3.69
+Splits   Lap Time Time
+200m  17.91 17.91
+600m  28.11 46.02
+Finish   31.23 1:17.25
+26 5  O  15
+
+GER
+Judith DANNHAUER
+1:17.41  +3.85
+Splits   Lap Time Time
+200m  17.89 17.89
+600m  28.04 45.93
+Finish   31.48 1:17.41
+27 3  O  6
+
+ITA
+Francesca BETTRONE
+1:17.83  +4.27
+Splits   Lap Time Time
+200m  18.86 18.86
+600m  28.77 47.63
+Finish   30.20 1:17.83
+28 3  I  66
+
+USA
+Jerica TANDIMAN
+1:18.02  +4.46
+Splits   Lap Time Time
+200m  18.52 18.52
+600m  28.27 46.79
+Finish   31.23 1:18.02
+29 2  I  9
+
+POL
+Karolina BOSIEK
+1:18.53  +4.97
+Splits   Lap Time Time
+200m  18.73 18.73
+600m  28.91 47.64
+Finish   30.89 1:18.53
+30 4  O  14
+
+ITA
+Yvonne DALDOSSI
+1:19.33  +5.77
+Splits   Lap Time Time
+200m  18.17 18.17
+600m  28.80 46.97
+Finish   32.36 1:19.33
+31 1  I  70
+
+GER
+Michelle UHRIG
+1:20.81  +7.25
+Splits   Lap Time Time
+200m  19.22 19.22
+600m  29.50 48.72
+Finish   32.09 1:20.81
