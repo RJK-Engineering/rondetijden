@@ -17,18 +17,18 @@
             <label for="skipFirstSplit">&gt; 400m</label><input type="checkbox" name="skipFirstSplit" id="skipFirstSplit"><br/>
           </div>
           <div class="col">
-            <input type="radio" name="distance" id="m500" value="Mannen 500m" disabled><label for="m500">Mannen 500m</label><br/>
-            <input type="radio" name="distance" id="m1000" value="Mannen 1000m" disabled><label for="m1000">Mannen 1000m</label><br/>
+            <input type="radio" name="distance" id="m500" value="Mannen 500m"><label for="m500">Mannen 500m</label><br/>
+            <input type="radio" name="distance" id="m1000" value="Mannen 1000m"><label for="m1000">Mannen 1000m</label><br/>
             <input type="radio" name="distance" id="m1500" value="Mannen 1500m"><label for="m1500">Mannen 1500m</label><br/>
-            <input type="radio" name="distance" id="m5000" value="Mannen 5km" disabled><label for="m5000">Mannen 5km</label><br/>
+            <input type="radio" name="distance" id="m5000" value="Mannen 5km"><label for="m5000">Mannen 5km</label><br/>
             <input type="radio" name="distance" id="m10000" value="Mannen 10km" checked><label for="m10000">Mannen 10km</label><br/>
           </div>
           <div class="col">
-            <input type="radio" name="distance" id="v500" value="Vrouwen 500m" disabled><label for="v500">Vrouwen 500m</label><br/>
-            <input type="radio" name="distance" id="v1000" value="Vrouwen 1000m" disabled><label for="v1000">Vrouwen 1000m</label><br/>
-            <input type="radio" name="distance" id="v1500" value="Vrouwen 1500m" disabled><label for="v1500">Vrouwen 1500m</label><br/>
-            <input type="radio" name="distance" id="v3000" value="Vrouwen 3km" disabled><label for="v3000">Vrouwen 3km</label><br/>
-            <input type="radio" name="distance" id="v5000" value="Vrouwen 5km" disabled><label for="v5000">Vrouwen 5km</label><br/>
+            <input type="radio" name="distance" id="v500" value="Vrouwen 500m"><label for="v500">Vrouwen 500m</label><br/>
+            <input type="radio" name="distance" id="v1000" value="Vrouwen 1000m"><label for="v1000">Vrouwen 1000m</label><br/>
+            <input type="radio" name="distance" id="v1500" value="Vrouwen 1500m"><label for="v1500">Vrouwen 1500m</label><br/>
+            <input type="radio" name="distance" id="v3000" value="Vrouwen 3km"><label for="v3000">Vrouwen 3km</label><br/>
+            <input type="radio" name="distance" id="v5000" value="Vrouwen 5km"><label for="v5000">Vrouwen 5km</label><br/>
           </div>
         </div>
       </div>
@@ -39,9 +39,7 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    <!-- <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script> -->
 
-    <!-- <script type="text/javascript" src="http://www.google.com/jsapi"></script> -->
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript" src="rondetijden.js"></script>
   </body>
