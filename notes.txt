@@ -1,2 +1,105 @@
-doorkomsttijden.nl
-rondetijden.nl
+Site idee:
+   doorkomsttijden.nl
+   rondetijden.nl
+
+---------------------------
+
+https://docs.google.com/spreadsheets/d/1DGadZxC9bXH0Xor6Mq4JBBG6Vq83iICwAGTLcAQlh4U/edit?usp=drive_web&ouid=104529670030391449488
+https://docs.google.com/spreadsheets/d/1DGadZxC9bXH0Xor6Mq4JBBG6Vq83iICwAGTLcAQlh4U/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1DGadZxC9bXH0Xor6Mq4JBBG6Vq83iICwAGTLcAQlh4U/gviz/tq?range=A1:C4
+
+---------------------------
+
+// $('#contestants input:not(:checked)').each(function() {
+//     config.filter.push($(this)[0].value);
+// });
+
+// google.charts.setOnLoadCallback(initialize);
+
+function initialize() {
+    var opts = {sendMethod: 'auto'};
+    var query = new google.visualization.Query('m10000.csv', opts);
+    // query.setQuery('select *');
+    // query.setTimeout(1);
+    query.send(handleQueryResponse);
+}
+
+function handleQueryResponse(response) {
+    alert('sad');
+    if (response.isError()) {
+        alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+        return;
+    }
+
+    var data = response.getDataTable();
+    // var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+    // chart.draw(data, {width: 400, height: 240, is3D: true});
+}
+
+
+function filter2(table, header) {
+    var exclude = [
+        // 'Ted-Jan BLOEMEN',
+        // 'Jorrit BERGSMA',
+        'Nicola TUMOLERO',
+        'LEE Seung-Hoon',
+        'Jordan BELCHOS',
+        // 'Sven KRAMER',
+        'Patrick BECKERT',
+        'Bart SWINGS',
+        'Moritz GEISREITER',
+        'Ryosuke TSUCHIYA',
+        'Havard BOKKO',
+        'Davide GHIOTTO',
+
+        // 'Kjeld NUIS',
+        // 'Patrick ROEST',
+        'KIM Min Seok',
+        'Haralds SILOVS',
+        'Takuro ODA',
+        // 'Bart SWINGS',
+        'Sindre HENRIKSEN',
+        'Joey MANTIA',
+        'Sverre Lunde PEDERSEN',
+        'Shane WILLIAMSON',
+        // 'Koen VERWEIJ',
+        'Zbigniew BRODKA',
+        'Denny MORRISON',
+        'Peter MICHAEL',
+        'Brian HANSEN',
+        'Jan SZYMANSKI',
+        'JOO Hyong-Jun',
+        'Sergey TROFIMOV',
+        'Shani DAVIS',
+        'Konrad NIEDZWIEDZKI',
+        'Vincent DE HAITRE',
+        'Alexis CONTIN',
+        'Mathias VOSTE',
+        'Shota NAKAMURA',
+        'Livio WENGER',
+        'Reyon KAY',
+        'Andrea GIOVANNINI',
+        'Fedor MEZENTSEV',
+        'Konrad NAGY',
+        'Denis KUZIN',
+        'Benjamin DONNELLY',
+        'XIAKAINI Aerchenghazi',
+        'Marten LIIV',
+        'TAI William',
+        'Allan Dahl JOHANSSON'
+    ];
+
+    var colIndexOf = {};
+    $.each(header, function (i, col) {
+        colIndexOf[col] = i;
+    });
+
+    var excludeColIndices = [];
+    $.each(exclude, function (i, col) {
+        if (colIndexOf[col])
+            excludeColIndices.push(colIndexOf[col]);
+    });
+    $.each(excludeColIndices.sort((a, b) => (a - b)).reverse(), function (i, colIndex) {
+        table.removeColumn(colIndex);
+    });
+}
